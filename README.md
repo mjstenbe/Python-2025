@@ -31,8 +31,8 @@ Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 Kuvaile, mitä teknologioita käytettiin ja mikä rooli niillä oli projektissa.  
 Käytin seuraavia teknologioita: `html`, `css`, ...
 
-## Suunnittelu (Vuokaavio)
-Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua.
+## Suunnittelu
+Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
 
 ## Tila  
 [Projektin nimi] on vielä työn alla. `Versio 2` julkaistaan pian.
